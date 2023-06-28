@@ -1,1 +1,30 @@
 /* Write your CSS here! */
+div {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 20px;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    display: block;
+}
+h1.center{
+    text-align: center;
+    color: green;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium';
+}
+#heading{
+    font-size: large;
+    color: brown;
+}
+#mainHeading{
+    color: red;
+}
+
+.funParagraph{
+    color: green;
+
+}
